@@ -21,7 +21,6 @@ I'm a **Senior Software Engineer** with over 8 years of experience in full-stack
 - Data Engineering
 - Advanced **AI/ML integrations**
 - Kubernetes and cloud-native architectures
-- Web3 and blockchain technologies
 
 ## 📫 Connect with Me
 - LinkedIn: [Usman Irale](https://www.linkedin.com/in/usman-irale-6a60b231)
