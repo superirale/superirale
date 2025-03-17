@@ -1,4 +1,4 @@
-# Hi there, I'm Usman Irale! 👋
+# Hi there, I'm Usman! 👋
 
 ## 🚀 About Me
 I'm a **Senior Software Engineer** with over 8 years of experience in full-stack development, cloud computing, and microservices architecture. Passionate about building scalable, high-performance applications, I thrive in agile environments and love solving complex problems with modern technologies.
